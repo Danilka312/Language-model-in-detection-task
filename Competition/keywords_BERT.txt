@@ -1,0 +1,100 @@
+cat,bed,dog
+parked,car,tree
+flower,mailbox,fence,bird,blooming
+bus,umbrella,intersection
+lake,sailing,mountain,boat,towering
+apple
+goalpost,ball,cheering
+cat,cup,couch
+clock,chair,door
+sunflower,butterfly,garden
+lamp post,bicycle,sidewalk,walking,parked
+road,car,driving
+park,tree,bench
+cat,roof,perched,bird
+boat,river,bridge,floating,across
+station,train,passenger
+nightstand,teddy bear,bed
+sofa,cup,table,remote
+dribbling,basketball,bouncing
+napkin,plate,pizza
+flying,sky,airplane,clouds,floating
+cat,mouse
+tree,field
+mailbox,driveway,car,parked
+bike,helmet,riding
+nest,tree,bird,branch,perched
+seagulls,boat,harbor,anchored
+crosswalk,cat,intersection
+goalkeeper,goal,ball,defending
+lamp,shelf,book,illuminating
+umbrella,beach
+curtains,cat
+fence,backyard,dog,surrounding
+billboard,highway,car,driving
+bee,flower,garden,blooming
+tree,wind,birds,swaying,branches
+trail,jogging,running
+sailing,boat,lake,mountains
+ball,goal
+intersection,cars
+sidewalk,walking,background,building
+garage,bicycle,car,parked
+moon,cat,sky,shining
+backyard,ball,tree
+nest,bird,leaves,branch,perched
+sailing,boat,ocean,hull,waves
+ball,field
+street,background,phone,person
+chair,cup,table
+lamp,bed,room
+sidewalk,background,walking
+garage,bicycle,parked,car
+cat,windowsill
+backyard,ball,tree,dog
+nest,bird,leaves,branch,perched
+sailing,boat,ocean,hull,waves
+ball
+street,background,phone,person
+chair,cup,table
+lamp,bed,room
+traffic light,intersection,passing
+teddy bear,bed,pillow
+desk,keyboard,monitor,table
+refrigerator,kitchen,sink
+toothbrush,bathroom,sink,mirror
+goalkeeper,ball,defending
+basketball,bouncing,court
+curtains,window,potted plant
+dining table,chairs,room
+laptop,mouse,table
+oven,stove,kitchen
+elephant,trees
+snowboard,skier,mountain,slope,riding
+glove,baseball,field
+umbrella,chair,handbag,table
+curtains,window,potted plant
+toaster,bread
+backpack,shoes
+airplane,sky,flying,clouds
+sofa,blanket,cat,covering
+chair,table,window
+sofa,television,remote,wall
+lamp,shelf,illuminating,book
+cup,table,newspaper
+vase,mantelpiece,flowers
+knife,vegetables,cutting board
+scissors,desk,paper
+suitcase,coat
+chair,dining table
+calendar,clock,wall
+bed,bedroom,pillows
+curtains,window,living room
+lamp,nightstand
+mirror,sink,bathroom
+rug,floor,chairs
+painting,wall,frame
+teapot,cups,table
+microwave,kitchen,oven
+fence,garden,plants
+playground,park,children

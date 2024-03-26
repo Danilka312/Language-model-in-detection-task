@@ -1,0 +1,100 @@
+cat,box,dog,bed
+car,building,tree
+bird,fence,flower,mailbox
+person,umbrella,bus,intersection
+mountain,lake,boat,water
+apple,table,book
+ball,goalpost,player,background
+cup,windowsill,cat,couch
+clock,wall,chair,door
+sunflower,garden,butterfly
+person,sidewalk,bicycle,lamp post
+car,road
+dog,park,bench,tree
+cat,windowsill,bird,roof
+boat,river,bridge
+train,station,passenger,platform
+teddy bear,bed,book,nightstand
+cup,table,remote,sofa
+basketball,court,player
+pizza,plate,fork,napkin
+airplane,sky,clouds
+cat,table,mouse
+dog,field,tree
+car,driveway,mailbox
+person,bike,helmet
+bird,branch,nest,tree
+boat,harbor,seagulls
+cat,intersection,crosswalk
+ball,goal,goalkeeper
+book,shelf,lamp
+person,beach,umbrella
+cat,windowsill,curtains
+dog,backyard,fence
+car,highway,billboard
+flower,garden,bee
+tree,wind,birds
+person,trail,dog
+boat,lake,mountains,background
+ball,goal,net
+man,intersection,cars
+person,sidewalk,building,background
+car,garage,bicycle,wall
+cat,windowsill,moon,sky
+dog,ball,backyard,tree
+bird,branch,nest,leaves
+boat,ocean,waves,hull
+ball,field
+person,phone,street,background
+cup,table,chair
+book,bed,lamp,room
+person,sidewalk,building,background
+car,garage,bicycle,wall
+cat,windowsill
+dog,ball,backyard,tree
+bird,branch,nest,leaves
+boat,ocean,waves,hull
+ball
+person,phone,street,background
+cup,table,chair
+book,bed,lamp,room
+traffic light,intersection,cars
+teddy bear,bed,pillow
+keyboard,desk,monitor,table
+refrigerator,kitchen,sink
+toothbrush,bathroom,mirror,sink
+ball,net,goalkeeper
+basketball,court,players
+potted plant,windowsill,curtains,window
+dining table,room,chairs
+laptop,table,mouse
+oven,kitchen,stove
+elephant,safari,trees,background
+snowboard,slope,skier,mountain
+glove,field,baseball
+handbag,chair,umbrella,table
+potted plant,windowsill,curtains,window
+toaster,table,bread
+backpack,floor,shoes
+airplane,sky,clouds
+cat,sofa,blanket
+chair,window,table
+television,wall,remote,sofa
+book,shelf,lamp
+cup,table,newspaper
+vase,mantelpiece,flowers
+knife,cutting board,vegetables
+scissors,desk,paper
+suitcase,door,coat
+chair,dining table,fork
+clock,wall,calendar
+bed,bedroom,pillows
+window,living room,curtains
+lamp,nightstand,book
+mirror,bathroom,sink
+rug,floor,chairs
+painting,wall,frame
+teapot,table,cups
+microwave,kitchen,oven
+plants,garden,fence
+playground,park,children
